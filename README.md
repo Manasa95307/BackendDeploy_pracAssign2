@@ -9,7 +9,9 @@ Run Locally
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Manasa95307/BackendDeploy_pracAssign2.git
+   git clone:
+   
+    https://github.com/Manasa95307/BackendDeploy_pracAssign2.git
 Install dependencies:
 
 bash
